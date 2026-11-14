@@ -12,8 +12,9 @@ discussions, or pull requests.**
 
 Instead, report privately by email:
 
-- **Contact:** chihwayii@outlook.com *(interim contact pending an official
-  MOHCC ICT Directorate security mailbox — see note below)*
+- **Primary contact:** ichihwai@mohcc.org.zw (ICT Directorate, developer/maintainer)
+- **Escalation:** tchawurura@mohcc.org.zw (Director of ICT) — use if the primary
+  contact is unreachable or the matter requires Directorate-level decision.
 
 When reporting, please include:
 
@@ -39,7 +40,8 @@ those to the relevant vendor.
 
 ## A note on the contact address
 
-This document currently lists a personal email as an interim contact because
-an official ICT Directorate security mailbox has not yet been assigned. This
-section should be updated by the Directorate before this organization is
-used for production or sensitive health-data systems.
+The contacts above are individual MOHCC ICT Directorate staff email
+addresses. Before this organization is used for production or sensitive
+health-data systems, the Directorate should consider assigning a shared
+security mailbox so disclosure handling does not depend on any one person's
+availability.

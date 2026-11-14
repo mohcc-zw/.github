@@ -41,8 +41,8 @@ organization.
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported by contacting:
 
-- **chihwayii@outlook.com** *(interim contact pending an official MOHCC ICT
-  Directorate point of contact)*
+- **ichihwai@mohcc.org.zw** (ICT Directorate, developer/maintainer)
+- **tchawurura@mohcc.org.zw** (Director of ICT) — escalation contact.
 
 All complaints will be reviewed and investigated and will result in a
 response deemed necessary and appropriate to the circumstances. Project

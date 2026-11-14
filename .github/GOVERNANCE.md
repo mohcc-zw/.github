@@ -16,13 +16,12 @@ and maintainers are added, and how disagreements are resolved.
 
 | Role | Responsibility |
 |---|---|
-| **Director of ICT** (sponsor) | Final decision authority for the organization; approves new repositories, org-wide policy changes, and resolves escalations. |
-| **Organization owner(s)** | Hold GitHub admin rights on `mohcc-zw`; manage membership, org settings, and org-wide `.github` defaults (this repository). |
-| **Project maintainer(s)** | Named per-repository; review and merge pull requests, triage issues, cut releases for that project. |
+| **Director of ICT** (sponsor) | tchawurura@mohcc.org.zw — final decision authority for the organization; approves new repositories, org-wide policy changes, and resolves escalations. |
+| **Organization owner / maintainer** | ichihwai@mohcc.org.zw — holds GitHub admin rights on `mohcc-zw` (GitHub account: chihwayi); manages membership, org settings, and org-wide `.github` defaults (this repository); reviews and merges pull requests. |
 | **Contributors** | Anyone submitting issues or pull requests per [CONTRIBUTING.md](CONTRIBUTING.md). |
 
-*Placeholder: list actual named individuals/positions here once confirmed
-by the Director of ICT.*
+*As more projects and staff join the organization, add named maintainers per
+repository here.*
 
 ## Decision-making
 
