@@ -19,15 +19,15 @@ national, provincial, and district health facilities.
 
 ## Repository guidelines
 
-- See [`.github/CONTRIBUTING.md`](CONTRIBUTING.md) before opening a pull request.
-- See [`.github/CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) for expected conduct in all project spaces.
-- See [`.github/GOVERNANCE.md`](GOVERNANCE.md) for how decisions get made across these repositories.
-- See [`.github/SECURITY.md`](SECURITY.md) to report a vulnerability — please do not open a public issue for security matters.
+- See [`CONTRIBUTING.md`](../CONTRIBUTING.md) before opening a pull request.
+- See [`CODE_OF_CONDUCT.md`](../CODE_OF_CONDUCT.md) for expected conduct in all project spaces.
+- See [`GOVERNANCE.md`](../GOVERNANCE.md) for how decisions get made across these repositories.
+- See [`SECURITY.md`](../SECURITY.md) to report a vulnerability — please do not open a public issue for security matters.
 
 ## Contact
 
 General enquiries about these repositories can be directed to the ICT
-Directorate contact listed in [SECURITY.md](SECURITY.md).
+Directorate contact listed in [SECURITY.md](../SECURITY.md).
 
 ---
 
