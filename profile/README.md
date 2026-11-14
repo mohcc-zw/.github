@@ -2,7 +2,7 @@
   <img src="assets/mohcc-logo.png" alt="Ministry of Health and Child Care, Zimbabwe logo" width="140" />
 
   # Ministry of Health and Child Care — Zimbabwe
-  ### A Healthy Nation
+  **A Healthy Nation**
 </div>
 
 ---
