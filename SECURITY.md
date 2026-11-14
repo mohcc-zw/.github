@@ -12,7 +12,7 @@ discussions, or pull requests.**
 
 Instead, report privately by email:
 
-- **Primary contact:** ichihwai@mohcc.org.zw (ICT Directorate, developer/maintainer)
+- **Primary contact:** ichihwai@mohcc.org.zw (Developer/Maintainer)
 - **Escalation:** tchawurura@mohcc.org.zw (Director of ICT) — use if the primary
   contact is unreachable or the matter requires Directorate-level decision.
 
